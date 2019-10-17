@@ -1,0 +1,4 @@
+{
+  "source.fixAll.tslint": true,
+  "eslint.enable": false
+}
